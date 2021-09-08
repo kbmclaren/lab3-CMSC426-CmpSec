@@ -1,6 +1,6 @@
 # lab3-CMSC426-CmpSec
 ## Description
-In this lab 3, I worked with my group to compromise mutual authentication between machine A and machine B. There were two methods over-arching methods applied: ARP cache poisoning, and a Man-In-The-Middle attack. Scapy packet building tools as well as Wireshark were used in this lab.<br>
+In this lab 3, I worked with my group to compromise mutual authentication between machine A and machine B. There were over-arching methods applied: ARP cache poisoning, and a Man-In-The-Middle attack. Scapy packet building tools as well as Wireshark were used in this lab.<br>
 ## Repo Contents
 - Labsetup: 
     - docker-compose.yml: file required to set up the containers hosting the three parties. Provided by professor<br>
